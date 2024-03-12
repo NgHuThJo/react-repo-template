@@ -1,0 +1,7 @@
+.image--icon {
+  min-width: var(--min-width-icon);
+}
+
+.image--logo {
+  min-width: var(--min-width-logo);
+}
